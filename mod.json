@@ -1,7 +1,7 @@
 {
-    "name": "Practical HUD for D2RMM 2.3 Centered",
-    "description": "Changes heads up display to a simple clean one",
-    "author": "salzgaard",
+    "name": "MinimalUI",
+    "description": "Controller UI",
+    "author": "supergoon",
     "website": "",
-    "version": "2.3 Centered"
+    "version": "0.1"
   }
